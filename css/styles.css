@@ -11551,14 +11551,14 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/preto.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 20%, rgba(0, 0, 0, 0.7) 98%, #000 100%), url("../assets/img/fundo6.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
 }
 .masthead h1, .masthead .h1 {
-  font-family: 'Copperplate', fantasy;"
+  font-family: 'Copperplate', fantasy;
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
